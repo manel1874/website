@@ -10,7 +10,12 @@
     const dark = preference ? preference === 'dark' : system.matches;
     document.documentElement.dataset.theme = dark ? 'dark' : 'light';
     document.querySelector('meta[name="theme-color"]')?.setAttribute('content', dark ? '#1c1d1b' : '#f8f7f4');
-    button?.setAttribute('aria-pressed', String(dark));
+    if (button) {
+      const label = dark ? 'Light mode' : 'Dark mode';
+      button.querySelector('span').textContent = label;
+      button.setAttribute('aria-label', label);
+      button.setAttribute('title', label);
+    }
   }
   apply();
   system.addEventListener('change', apply);

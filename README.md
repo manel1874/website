@@ -18,7 +18,7 @@ Open http://localhost:4173. After editing, rerun `npm run build` and refresh the
 npm run build
 ```
 
-Deploy the contents of `dist/` to any static host. All asset paths are relative, so the site also works under a GitHub Pages repository path. No account, hosting service, or production URL is configured yet.
+Deploy the contents of `dist/` to any static host. All asset paths are relative, so the site also works under a GitHub Pages repository path. GitHub Pages publishes the site at https://manel1874.github.io/website/. Pushing to `main` runs `.github/workflows/pages.yml`, builds the site, and deploys `dist/`.
 
 ## Edit content
 

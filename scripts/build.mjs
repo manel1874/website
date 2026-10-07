@@ -33,8 +33,8 @@ const jobs = [
  ])}`},
  {company:'Tectonic Labs',url:'https://tectonic.xyz/',role:'Cryptography Research Engineer',date:'Oct 2025 - Mar 2026',text:'Post-quantum wallets, blockchain migration, and protocol engineering.',details:`${group('Cryptographic design & engineering', [
  `Implemented ${link('Mithril','https://github.com/tectonic-labs/thmldsa-rs')}, a threshold post-quantum ML-DSA signing protocol.`,
- `Designed and implemented ${link('hybrid hierarchical deterministic wallets','https://web.archive.org/web/20260521082738/https://www.tectonic.xyz/blog/hybrid-hierarchical-deterministic-wallets/')} (archived article), including specification work and hybrid HD support in Rust. Maintained Bedrock’s post-quantum cryptography library.`,
- 'Contributed deterministic methods in liboqs, WebAssembly compatibility in liboqs-rust, and tests for Python bindings.',
+ `Designed and implemented ${link('hybrid hierarchical deterministic wallets','https://web.archive.org/web/20260521082738/https://www.tectonic.xyz/blog/hybrid-hierarchical-deterministic-wallets/')} (archived article), including specification work and hybrid HD support in Rust.`,
+ 'Maintained Bedrock’s post-quantum cryptography library.',
  `Contributed to SLIPs standards with a ${link('proposal to add ML-DSA post-quantum signatures to SLIP-0010','https://github.com/satoshilabs/slips/pull/1968')}.`
  ])}${group('Audits & standards', [
  'Conducted a quantum-readiness audit for 0G.',

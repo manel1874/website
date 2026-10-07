@@ -74,7 +74,7 @@ const degrees = [
 ];
 const education = degrees.map(d => `<li class="entry"><div class="entry-top"><h3>${d.title}</h3><span class="year">${d.year}</span></div><p class="entry-description">${link(d.institution,d.url)} · ${d.grade}</p>${d.description ? `<p class="entry-meta">${d.description}</p>` : ''}<p class="degree-thesis">${d.label}: ${link(content.theses[d.thesis].title,content.theses[d.thesis].url)}</p></li>`).join('');
 const template = await readFile(new URL('../template.html', import.meta.url), 'utf8');
-let html = template.replace('{{jobs}}', jobHtml).replace('{{articles}}',collection('research','Research','articles','<h3 class="collection-heading">Articles</h3>',`<section id="reports" class="subsection" aria-labelledby="reports-title"><h3 id="reports-title">Technical reports</h3><ul class="entries compact">${entries('reports')}</ul></section>`)).replace('{{education}}', education).replace('{{posts}}',collection('writing','Blogposts','posts')).replace('{{projects}}',collection('projects','Code','projects'));
+let html = template.replace('{{jobs}}', jobHtml).replace('{{articles}}',collection('research','Research','articles','',`<section id="reports" class="subsection" aria-labelledby="reports-title"><h3 id="reports-title">Technical reports</h3><ul class="entries compact">${entries('reports')}</ul></section>`)).replace('{{education}}', education).replace('{{posts}}',collection('writing','Blogposts','posts')).replace('{{projects}}',collection('projects','Code','projects'));
 if (html.includes('—')) throw new Error('Em dash found');
 await mkdir(new URL('../dist/', import.meta.url), {recursive:true});
 await cp(new URL('../public/', import.meta.url),new URL('../dist/', import.meta.url),{recursive:true});

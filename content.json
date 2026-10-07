@@ -1,0 +1,790 @@
+{
+  "articles": [
+    {
+      "title": "Efficient Record-and-Replay Arithmetic for Quantum Elliptic-Curve Point Addition",
+      "url": "https://arxiv.org/abs/2609.28882",
+      "year": "2026",
+      "topics": [
+        "Quantum"
+      ],
+      "links": [],
+      "venue": "arXiv"
+    },
+    {
+      "title": "ECDSA.Fail: Open Autoresearch for Optimizing Elliptic-Curve Point Addition in Shor’s Algorithm",
+      "url": "https://arxiv.org/html/2609.09582",
+      "year": "2026",
+      "topics": [
+        "Quantum",
+        "AI"
+      ],
+      "links": [],
+      "venue": "arXiv"
+    },
+    {
+      "title": "Post-Quantum Blockchains with Crypto-Agility in Mind",
+      "url": "https://eprint.iacr.org/2026/609",
+      "year": "2026",
+      "topics": [
+        "Quantum"
+      ],
+      "links": [
+        {
+          "label": "ePrint",
+          "url": "https://eprint.iacr.org/2026/609"
+        },
+        {
+          "label": "Springer Nature",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-032-28946-9_10"
+        },
+        {
+          "label": "Presentation slides",
+          "url": "https://magics-workshop.cs.hs-rm.de/slides/Post-Quantum%20Blockchains%20with%20Agility%20in%20Mind.pdf"
+        }
+      ],
+      "venue": "MAgiCS · Eurocrypt workshop / Springer"
+    },
+    {
+      "title": "TLShare: Private Authenticated MPC and FHE Inputs Over TLS",
+      "url": "https://eprint.iacr.org/2025/1434",
+      "year": "2025",
+      "topics": [
+        "MPC",
+        "FHE",
+        "ZK"
+      ],
+      "links": [],
+      "venue": "Cryptology ePrint Archive"
+    },
+    {
+      "title": "Fission: Distributed Privacy-Preserving Large Language Model Inference",
+      "url": "https://eprint.iacr.org/2025/653",
+      "year": "2025",
+      "topics": [
+        "MPC",
+        "AI"
+      ],
+      "links": [],
+      "venue": "IEEE CNS"
+    },
+    {
+      "title": "Quantum Universally Composable Oblivious Linear Evaluation",
+      "url": "https://quantum-journal.org/papers/q-2024-10-23-1507/",
+      "year": "2024",
+      "topics": [
+        "Quantum",
+        "MPC"
+      ],
+      "links": [
+        {
+          "label": "Qcrypt2022",
+          "url": "https://2022.qcrypt.net/sessions/poster2/"
+        },
+        {
+          "label": "Presentation",
+          "url": "https://www.youtube.com/watch?v=yQliNZnRgpU"
+        }
+      ],
+      "venue": "Quantum"
+    },
+    {
+      "title": "Curl: Private LLMs through Wavelet-Encoded Look-Up Tables",
+      "url": "https://eprint.iacr.org/2024/1127",
+      "year": "2024",
+      "topics": [
+        "MPC",
+        "AI"
+      ],
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://github.com/jimouris/curl"
+        }
+      ],
+      "venue": "CAMLIS"
+    },
+    {
+      "title": "Oblivious Keys for Secure Multiparty Computation Obtained from a CV-QKD",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10207521",
+      "year": "2023",
+      "topics": [
+        "Quantum",
+        "MPC"
+      ],
+      "links": [],
+      "venue": "ICTON"
+    },
+    {
+      "title": "PECO: methods to enhance the privacy of DECO protocol",
+      "url": "https://eprint.iacr.org/2022/1774",
+      "year": "2022",
+      "topics": [
+        "MPC",
+        "ZK"
+      ],
+      "links": [],
+      "venue": "Cryptology ePrint Archive"
+    },
+    {
+      "title": "Quantum oblivious transfer: a short review",
+      "url": "https://www.mdpi.com/1099-4300/24/7/945",
+      "year": "2022",
+      "topics": [
+        "Quantum",
+        "MPC"
+      ],
+      "links": [],
+      "venue": "Entropy"
+    },
+    {
+      "title": "Private Computation of Phylogenetic Trees based on Quantum Technologies",
+      "url": "https://ieeexplore.ieee.org/document/9732453",
+      "year": "2022",
+      "topics": [
+        "Quantum",
+        "MPC"
+      ],
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://github.com/manel1874/private-phylogenetic-analysis"
+        }
+      ],
+      "venue": "IEEE Access"
+    },
+    {
+      "title": "Quantum and classical oblivious transfer: A comparative analysis",
+      "url": "https://doi.org/10.1049/qtc2.12010",
+      "year": "2021",
+      "topics": [
+        "Quantum",
+        "MPC"
+      ],
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://github.com/manel1874/OTKeys"
+        }
+      ],
+      "venue": "IET Quantum Communications"
+    },
+    {
+      "title": "Quantum Secure Multiparty Computation of Phylogenetic Trees of SARS-CoV-2 Genomes",
+      "url": "https://ieeexplore.ieee.org/document/9435479",
+      "year": "2021",
+      "topics": [
+        "Quantum",
+        "MPC"
+      ],
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://github.com/manel1874/QSHY"
+        }
+      ],
+      "venue": "ConfTELE"
+    },
+    {
+      "title": "Quantum Enabled Private Recognition of Composite Signals in Genome and Proteins",
+      "url": "https://ieeexplore.ieee.org/document/9203042",
+      "year": "2020",
+      "topics": [
+        "Quantum",
+        "MPC"
+      ],
+      "links": [],
+      "venue": "ICTON"
+    },
+    {
+      "title": "A random cocycle with non Hölder Lyapunov exponent",
+      "url": "https://www.aimsciences.org/article/doi/10.3934/dcds.2019197",
+      "year": "2019",
+      "topics": [
+        "Maths"
+      ],
+      "links": [],
+      "venue": "Discrete & Continuous Dynamical Systems"
+    }
+  ],
+  "theses": [
+    {
+      "title": "Quantum Assisted Secure Multiparty Computation",
+      "url": "https://github.com/manel1874/PhD-thesis/blob/main/Manuel_final_submission/Final_PhD_Manuel.pdf",
+      "year": "",
+      "topics": [
+        "MPC",
+        "Quantum"
+      ],
+      "links": []
+    },
+    {
+      "title": "Topological Band Systems and Finite Size Effects",
+      "url": "https://arxiv.org/abs/2205.01227",
+      "year": "2022",
+      "topics": [
+        "Quantum"
+      ],
+      "links": []
+    },
+    {
+      "title": "Classification of the Homogeneous Cosmological Models",
+      "url": "https://www.math.tecnico.ulisboa.pt/~jnatar/alunos/Manuel.pdf",
+      "year": "",
+      "topics": [],
+      "links": []
+    }
+  ],
+  "reports": [
+    {
+      "title": "Technical Report on Threshold ECDSA in the Preprocessing Setup",
+      "url": "https://nillion.pub/threshold-ecdsa-preprocessing-setup.pdf",
+      "year": "2023",
+      "topics": [
+        "MPC"
+      ],
+      "links": []
+    },
+    {
+      "title": "Technical Report on Secure Truncation with Applications to LLM Quantization",
+      "url": "https://nillion.pub/secure-truncation-llm-quantization.pdf",
+      "year": "2023",
+      "topics": [
+        "MPC",
+        "AI"
+      ],
+      "links": []
+    }
+  ],
+  "posts": [
+    {
+      "title": "Exploring Signature-Free Post-Quantum RLPx Handshake",
+      "url": "https://ethresear.ch/t/exploring-signature-free-post-quantum-rlpx-handshake/24413",
+      "year": "2026",
+      "topics": [
+        "Post-quantum"
+      ],
+      "links": [],
+      "venue": "Ethereum Research"
+    },
+    {
+      "title": "Hybrid Hierarchical Deterministic Wallets",
+      "url": "https://web.archive.org/web/20260521082738/https://www.tectonic.xyz/blog/hybrid-hierarchical-deterministic-wallets/",
+      "year": "2026",
+      "topics": [
+        "Post-quantum"
+      ],
+      "links": [],
+      "venue": "Tectonic",
+      "originalUrl": "https://www.tectonic.xyz/blog/hybrid-hierarchical-deterministic-wallets",
+      "access": "Wayback Machine"
+    },
+    {
+      "title": "TLShare: Private Authenticated MPC Inputs Over TLS",
+      "url": "https://medium.com/@jimouris/tlshare-private-authenticated-mpc-and-fhe-inputs-over-tls-17dc71c33011",
+      "year": "2025",
+      "topics": [
+        "MPC",
+        "ZK"
+      ],
+      "links": [],
+      "venue": "Nillion"
+    },
+    {
+      "title": "TLShare: Private Authenticated FHE Inputs Over TLS",
+      "url": "https://medium.com/@jimouris/tlshare-private-authenticated-mpc-and-fhe-inputs-over-tls-96e426968cd9",
+      "year": "2025",
+      "topics": [
+        "FHE",
+        "ZK"
+      ],
+      "links": [],
+      "venue": "Nillion"
+    },
+    {
+      "title": "Fission: Distributed Privacy-Preserving Large Language Model Inference",
+      "url": "https://web.archive.org/web/20250515014208/https://nillion.com/news/fission-distributed-privacy-preserving-large-language-model-inference/",
+      "year": "2025",
+      "topics": [
+        "MPC",
+        "AI"
+      ],
+      "links": [],
+      "venue": "Nillion",
+      "originalUrl": "https://nillion.com/news/fission-distributed-privacy-preserving-large-language-model-inference/",
+      "access": "Wayback Machine"
+    },
+    {
+      "title": "Evolving zkTLS: Privacy-Preserving Computation from Decentralized Oracles",
+      "url": "https://nillion.com/news/evolving-zktls-privacy-preserving-computation-from-decentralized-oracles/",
+      "year": "2025",
+      "topics": [
+        "MPC",
+        "ZK"
+      ],
+      "links": [],
+      "venue": "Nillion"
+    },
+    {
+      "title": "Evolving zkTLS: Part 2 of Privacy-Preserving Computation from Decentralized Oracles",
+      "url": "https://web.archive.org/web/20250411121618/https://nillion.com/news/evolving-zktls-part-2-of-privacy-preserving-computation-from-decentralized-oracles/",
+      "year": "2025",
+      "topics": [
+        "MPC",
+        "ZK"
+      ],
+      "links": [
+        {
+          "label": "Author’s copy",
+          "url": "https://medium.com/@jimouris/evolving-zktls-privacy-preserving-computation-from-decentralized-oracles-1aa29bf51c5d"
+        }
+      ],
+      "venue": "Nillion",
+      "originalUrl": "https://nillion.com/news/evolving-zktls-part-2-of-privacy-preserving-computation-from-decentralized-oracles/",
+      "access": "Wayback Machine"
+    },
+    {
+      "title": "Evolving zkTLS: Part 3 of Privacy-Preserving Computation from Decentralized Oracles",
+      "url": "https://web.archive.org/web/20250414124742/https://nillion.com/news/evolving-zktls-part-3-of-privacy-preserving-computation-from-decentralized-oracles/",
+      "year": "2025",
+      "topics": [
+        "MPC",
+        "ZK"
+      ],
+      "links": [
+        {
+          "label": "Author’s copy",
+          "url": "https://medium.com/@jimouris/evolving-zktls-privacy-preserving-computation-from-decentralized-oracles-3dae623ea166"
+        }
+      ],
+      "venue": "Nillion",
+      "originalUrl": "https://nillion.com/news/evolving-zktls-part-3-of-privacy-preserving-computation-from-decentralized-oracles/",
+      "access": "Wayback Machine"
+    },
+    {
+      "title": "Overcoming Risks through Decentralized Cryptography",
+      "url": "https://web.archive.org/web/20250317154417/https://nillion.com/news/rethinking-signatures/",
+      "year": "2025",
+      "topics": [
+        "MPC"
+      ],
+      "links": [],
+      "venue": "Nillion",
+      "originalUrl": "https://nillion.com/news/rethinking-signatures/",
+      "access": "Wayback Machine"
+    },
+    {
+      "title": "Improving threshold ECDSA and its applications to AI agents",
+      "url": "https://nillion.com/news/improving-threshold-ecdsa-and-its-applications-to-ai-agents/",
+      "year": "2025",
+      "topics": [
+        "MPC",
+        "AI"
+      ],
+      "links": [],
+      "venue": "Nillion",
+      "unavailable": true
+    },
+    {
+      "title": "Where Is the CGGMP 7-Round Protocol?",
+      "url": "https://nillion.com/news/1342/",
+      "year": "2024",
+      "topics": [
+        "MPC"
+      ],
+      "links": [],
+      "venue": "Nillion",
+      "unavailable": true
+    },
+    {
+      "title": "A New Wave of Privacy-Preserving Large Language Models",
+      "url": "https://nillion.com/news/a-new-wave-of-privacy-preserving-large-language-models/",
+      "year": "2024",
+      "topics": [
+        "MPC",
+        "AI"
+      ],
+      "links": [
+        {
+          "label": "Wayback Machine",
+          "url": "https://web.archive.org/web/20241107130158/https://nillion.com/news/1175/"
+        }
+      ],
+      "venue": "Nillion",
+      "originalUrl": "https://nillion.com/news/1175/"
+    },
+    {
+      "title": "Voting tutorial in Nada",
+      "url": "https://github.com/NillionNetwork/python-examples/blob/main/examples_and_tutorials/voting_tutorial/tutorial.md",
+      "year": "2024",
+      "topics": [
+        "MPC"
+      ],
+      "links": [],
+      "venue": "Tutorial"
+    },
+    {
+      "title": "Verifiable private database query in MP-SPDZ",
+      "url": "https://github.com/manel1874/verifiable-private-database-query/blob/main/tutorial.md",
+      "year": "2023",
+      "topics": [
+        "MPC",
+        "ZK"
+      ],
+      "links": [],
+      "venue": "Tutorial"
+    },
+    {
+      "title": "Privacy-Preserving Computational Biology using Yao protocol",
+      "url": "https://medium.com/@manuel.batalha.santos/privacy-preserving-computational-biology-using-yao-protocol-dbbc2d61bd09",
+      "year": "2022",
+      "topics": [
+        "MPC"
+      ],
+      "links": [],
+      "venue": "Medium"
+    }
+  ],
+  "projects": [
+    {
+      "title": "thmldsa-rs",
+      "url": "https://github.com/tectonic-labs/thmldsa-rs",
+      "description": "Implemented Mithril, a threshold post-quantum ML-DSA signing protocol.",
+      "topics": [
+        "MPC",
+        "Quantum"
+      ],
+      "links": [],
+      "year": "",
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "title": "Bedrock / hybrid HD wallets",
+      "url": "https://github.com/tectonic-labs/bedrock/tree/main/src/hhd",
+      "description": "Designed and implemented hybrid hierarchical deterministic wallets and maintained Bedrock’s post-quantum cryptography library.",
+      "topics": [
+        "Quantum"
+      ],
+      "links": [],
+      "year": "",
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "title": "OTLS",
+      "url": "https://github.com/manel1874/otls",
+      "description": "Integrated the RELIC library for pairing-based elliptic-curve zkTLS protocols.",
+      "topics": [
+        "ZK",
+        "MPC",
+        "FHE"
+      ],
+      "links": [],
+      "year": "",
+      "languages": [
+        "C++",
+        "C"
+      ]
+    },
+    {
+      "title": "TFHE-rs contributions",
+      "url": "https://github.com/manel1874/tfhe-rs",
+      "description": "Implemented zero-knowledge proofs for LWE encryption.",
+      "topics": [
+        "ZK",
+        "FHE"
+      ],
+      "links": [],
+      "year": "",
+      "languages": [
+        "Rust",
+        "CUDA",
+        "C++",
+        "C"
+      ]
+    },
+    {
+      "title": "emp-zk / LWE encryption",
+      "url": "https://github.com/manel1874/emp-zk/tree/feat/tfhe-example",
+      "description": "Built zero-knowledge proof circuits for LWE-based encryption.",
+      "topics": [
+        "ZK",
+        "FHE"
+      ],
+      "links": [],
+      "year": "",
+      "languages": [
+        "C++",
+        "C"
+      ]
+    },
+    {
+      "title": "nilVM",
+      "url": "https://github.com/NillionNetwork/nilvm",
+      "description": "Implemented MPC protocols and integrated threshold signatures into Nillion’s cryptographic backend.",
+      "topics": [
+        "MPC"
+      ],
+      "links": [],
+      "year": "",
+      "languages": [
+        "Rust",
+        "Python"
+      ]
+    },
+    {
+      "title": "nilAI",
+      "url": "https://github.com/NillionNetwork/nilAI",
+      "description": "Private LLM inference with vLLM on confidential virtual machines. The system behind nilGPT.",
+      "topics": [
+        "AI"
+      ],
+      "links": [],
+      "year": "",
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "title": "nilRAG",
+      "url": "https://github.com/NillionNetwork/nilrag",
+      "description": "Privacy-preserving retrieval-augmented generation using MPC and trusted execution environments.",
+      "topics": [
+        "MPC",
+        "AI"
+      ],
+      "links": [],
+      "year": "",
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "title": "nada-numpy",
+      "url": "https://github.com/NillionNetwork/nada-numpy",
+      "description": "NumPy-style arrays and algebraic operations for Nillion’s Nada private computation language.",
+      "topics": [
+        "MPC",
+        "AI"
+      ],
+      "links": [],
+      "year": "",
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "title": "Blind Documind",
+      "url": "https://github.com/manel1874/blinddocumind",
+      "description": "Document processing with nilAI and Gemma 3.",
+      "topics": [
+        "AI"
+      ],
+      "links": [],
+      "year": "",
+      "languages": [
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
+      "title": "LFDT-Lockness / CGGMP21",
+      "url": "https://github.com/LFDT-Lockness/cggmp21",
+      "description": "Contributions to the CGGMP ECDSA threshold signing protocol upgrade.",
+      "topics": [
+        "MPC"
+      ],
+      "links": [],
+      "year": "",
+      "languages": [
+        "Rust",
+        "HTML"
+      ]
+    },
+    {
+      "title": "Blind Lawyer",
+      "url": "https://github.com/manel1874/blindlawyer",
+      "year": "",
+      "topics": [
+        "AI"
+      ],
+      "links": [],
+      "description": "A web app for private analysis of legal documents. Winner of Nillion’s internal hackathon.",
+      "languages": [
+        "TypeScript",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "title": "Curl",
+      "url": "https://github.com/jimouris/curl",
+      "year": "",
+      "topics": [
+        "MPC",
+        "AI"
+      ],
+      "links": [],
+      "description": "Private LLM inference in PyTorch and CrypTen. Implemented look-up-table protocols for non-linear functions and a secure truncation protocol.",
+      "languages": [
+        "Python",
+        "CSS"
+      ]
+    },
+    {
+      "title": "Tinysig",
+      "url": "https://github.com/nillion-oss/tinysig",
+      "year": "",
+      "topics": [
+        "MPC"
+      ],
+      "links": [
+        {
+          "label": "this",
+          "url": "https://nillion.pub/threshold-ecdsa-preprocessing-setup.pdf"
+        }
+      ],
+      "description": "A Python implementation of threshold ECDSA in the preprocessing setup.",
+      "languages": [
+        "Python"
+      ]
+    },
+    {
+      "title": "zkp-ecdsa-rs",
+      "url": "https://github.com/manel1874/zkp-ecdsa-rs",
+      "year": "",
+      "topics": [
+        "ZK"
+      ],
+      "links": [
+        {
+          "label": "zk-ecdsa",
+          "url": "https://github.com/cloudflare/zkp-ecdsa"
+        }
+      ],
+      "description": "A Rust implementation of the zk-ecdsa protocol. Work in progress.",
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "title": "Verifiable private database query",
+      "url": "https://github.com/manel1874/verifiable-private-database-query",
+      "year": "",
+      "topics": [
+        "MPC",
+        "ZK"
+      ],
+      "links": [],
+      "description": "Verifiable queries over private data, built on MP-SPDZ. Work in progress.",
+      "languages": [
+        "Rust"
+      ]
+    },
+    {
+      "title": "QMP-SPDZ",
+      "url": "https://github.com/manel1874/QMP-SPDZ",
+      "year": "",
+      "topics": [
+        "MPC",
+        "Quantum"
+      ],
+      "links": [
+        {
+          "label": "MP-SPDZ",
+          "url": "https://github.com/data61/MP-SPDZ"
+        }
+      ],
+      "description": "An MP-SPDZ fork integrating quantum oblivious transfer into MPC protocols.",
+      "languages": [
+        "C++",
+        "Python",
+        "C"
+      ]
+    },
+    {
+      "title": "Quantum private phylogenetic analysis",
+      "url": "https://github.com/manel1874/private-phylogenetic-analysis",
+      "year": "",
+      "topics": [
+        "MPC",
+        "Quantum"
+      ],
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/document/9732453"
+        }
+      ],
+      "description": "Private phylogenetic tree computation using PHYLIP, MPC, and quantum technologies.",
+      "languages": [
+        "C",
+        "HTML",
+        "Python",
+        "C++"
+      ]
+    },
+    {
+      "title": "OTKeys",
+      "url": "https://github.com/manel1874/OTKeys",
+      "year": "",
+      "topics": [
+        "MPC",
+        "Quantum"
+      ],
+      "links": [],
+      "description": "String oblivious transfer from oblivious keys and random oblivious transfer keys.",
+      "languages": [
+        "C++",
+        "C",
+        "Python"
+      ]
+    },
+    {
+      "title": "QSHY",
+      "url": "https://github.com/manel1874/QSHY",
+      "year": "",
+      "topics": [
+        "MPC",
+        "Quantum"
+      ],
+      "links": [],
+      "description": "A semi-honest Yao protocol assisted by quantum oblivious keys.",
+      "languages": [
+        "C++",
+        "Python",
+        "C",
+        "HTML"
+      ]
+    },
+    {
+      "title": "Threshold wallet",
+      "url": "https://github.com/manel1874/threshold-wallet",
+      "year": "",
+      "topics": [
+        "MPC"
+      ],
+      "links": [],
+      "description": "An Ethereum wallet prototype using GG20 threshold ECDSA.",
+      "languages": [
+        "Python",
+        "HTML"
+      ]
+    },
+    {
+      "title": "DDHOT",
+      "url": "https://github.com/manel1874/DDHOT",
+      "year": "",
+      "topics": [
+        "MPC"
+      ],
+      "links": [],
+      "description": "Universally composable oblivious transfer under the DDH assumption, based on the PVW framework.",
+      "languages": [
+        "C++"
+      ]
+    }
+  ]
+}

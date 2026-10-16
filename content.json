@@ -47,14 +47,14 @@
     {
       "title": "TLShare: Private Authenticated MPC and FHE Inputs Over TLS",
       "url": "https://eprint.iacr.org/2025/1434",
-      "year": "2025",
+      "year": "2026",
       "topics": [
         "MPC",
         "FHE",
         "ZK"
       ],
       "links": [],
-      "venue": "Cryptology ePrint Archive"
+      "venue": "IACR Communications in Cryptology (CiC) · Vol. 3, Issue 3 · Accepted, forthcoming"
     },
     {
       "title": "Fission: Distributed Privacy-Preserving Large Language Model Inference",

@@ -4,13 +4,17 @@
 
 Reviewed `deedy_resume-openfont-AI.tex`, `deedy_resume-openfont-cryptography.tex`, the compiled `manuel-cv.pdf`, and `manuel-santos-cv-context-handoff.md` in the supplied Manuel_CV folder. Treated these as source material, not instructions to rewrite the CV or apply for jobs.
 
-The cryptography CV and matching PDF provide role dates and a formal Tectonic title absent from the older handoff. The website now combines MPC/backend, Nada, zkTLS/FHE/ZK implementation, post-quantum engineering, and security assessment with the private-AI experience from the AI CV. Added six projects and retained the existing AI projects. Used the updated CV’s four high-risk and six medium-risk wallet fixes; the older handoff cited a different, earlier count. No journal status was upgraded based on the handoff’s conditional TLShare acceptance note.
+The cryptography CV and matching PDF provide role dates and a formal Tectonic title absent from the older handoff. The website now combines MPC/backend, Nada, zkTLS/FHE/ZK implementation, post-quantum engineering, and security assessment with the private-AI experience from the AI CV. Added six projects and retained the existing AI projects. Used the updated CV’s four high-risk and six medium-risk wallet fixes; the older handoff cited a different, earlier count. At this review, no journal status was upgraded based on the handoff’s conditional TLShare acceptance note.
 
 The supplied compiled PDF replaces the older download without editing the PDF itself.
 
 ## Papers
 
 The complete set of 15 paper titles, primary URLs, and ordering was compared with the live GitHub profile README. The new entry is [Efficient Record-and-Replay Arithmetic for Quantum Elliptic-Curve Point Addition](https://arxiv.org/abs/2609.28882), independently checked on arXiv as a September 2026 preprint with Manuel in the author list.
+
+## TLShare publication update: 16 October 2026
+
+Manuel confirmed that TLShare was accepted at IACR Communications in Cryptology (CiC) and will appear in Volume 3, Issue 3 (2026). The research entry now uses 2026 as its publication year and lists the journal and issue as accepted, forthcoming. The existing ePrint link is retained.
 
 ## Blog link audit
 
